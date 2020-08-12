@@ -4,7 +4,7 @@
 ![!](https://github.com/saiamrit/DIP-IR-notes/blob/master/images/im.png )
 
 
-[Lecture Slides](https://moodle.iiit.ac.in/pluginfile.php/82233/mod_resource/content/1/IRE-01-VV-Introduction.pdf)
+[**Lecture Slides**](https://moodle.iiit.ac.in/pluginfile.php/82233/mod_resource/content/1/IRE-01-VV-Introduction.pdf)
 
 ### Course Structure : 
   - Introduction (4 lectures)
