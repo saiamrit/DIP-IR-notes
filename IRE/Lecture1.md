@@ -3,7 +3,7 @@
 
 ![!](https://github.com/saiamrit/DIP-IR-notes/blob/master/images/im.png )
 
----
+
 [**Lecture Slides**](https://moodle.iiit.ac.in/pluginfile.php/82233/mod_resource/content/1/IRE-01-VV-Introduction.pdf)
 ---
 ### Course Structure : 
@@ -13,13 +13,13 @@
   - Machine Learning & IR (9 lectures)
   - Information Extraction (3 lectures) : IE Fundamentals, Named Entity Recognition
   - Information Access and IR Applications (9 lectures) : Summarization, Social Computing
----  
+
 ### Evaluation :  
   * Quiz/In Class Activities : 10%
   * Assignments : 15%
   * Project : 60% (20% Mini Project + 40% Major Project)
   * Term Paper : 15% (Can be given at any time of the semester)
----
+  
 ### Textbooks and Reference Books
   * Introduction Information Retrieval – Chris Manning et al (the Stanford IR Book)
   * Search Engines IR in Practice – Bruce Craft et. al.
