@@ -1,6 +1,7 @@
 # Lecture 1 - Introduction to the course
 > The End is the Beginning, and the Beginning is the End - DARK !!
 
+![IRE!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
 [Lecture Slides](https://moodle.iiit.ac.in/pluginfile.php/82233/mod_resource/content/1/IRE-01-VV-Introduction.pdf)
 
 ### Course Structure : 
