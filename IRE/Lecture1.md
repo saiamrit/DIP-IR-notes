@@ -21,8 +21,8 @@
   * Term Paper : 15% (Can be given at any time of the semester)
   
 ### Textbooks and Reference Books
-  * ![Introduction Information Retrieval – Chris Manning et al (the Stanford IR Book) !](https://github.com/saiamrit/DIP-IR-notes/blob/master/images/ir_book1.jpg "Introduction Information Retrieval – Chris Manning et al (the Stanford IR Book)" )
-  * ![Search Engines IR in Practice – Bruce Craft et. al!]( https://github.com/saiamrit/DIP-IR-notes/blob/master/images/irbook2.jpg "Search Engines IR in Practice – Bruce Craft et. al" )
+  * Introduction Information Retrieval – Chris Manning et al (the Stanford IR Book)
+  * Search Engines IR in Practice – Bruce Craft et. al
   
 ---
 ### Minor Project details : 
