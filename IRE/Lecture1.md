@@ -1,5 +1,5 @@
 # Lecture 1 - Introduction to the course
-      *The End is the Beginning, the Beginning is the End*
+> The End is the Beginning, and the Beginning is the End - DARK !!
 
 * Course is divided into 3 parts : 
   - Introduction (4 lectures)
