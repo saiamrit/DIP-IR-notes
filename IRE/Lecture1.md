@@ -50,3 +50,5 @@
     * Scope document by 26th September - Defining scope of what is to be worked on.
     * End-to-end system by 25th October – Most Viable Product deliverable 
     * Complete system by 14th November - Demo/presentation Video, Code, Report 
+    
+
